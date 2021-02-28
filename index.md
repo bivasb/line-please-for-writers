@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+## APP PRIVACY POLICY
 
-You can use the [editor on GitHub](https://github.com/bivasb/line-please-for-writers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+NIV Software, LLC built the Line Please For Writers  app as
+                  a Free app. This SERVICE is provided by
+                  NIV Software, LLC at no cost and is intended for use as
+                  is.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Line Please for Writers respects your privacy. 
+                  The projects you create in this app are only yours and we don’t have access to the data you write. 
+                  All you write within the app is only stored on your device and in your iCloud account.
+                  
+The purpose of this privacy policy is to inform you in detail what personally identifiable information or 
+                    personal information we collect from you when you use our app, and how we use such information, 
+                  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Who We Are
 
-```markdown
-Syntax highlighted code block
+We are a limited liability company organized and existing under the laws of California, 
+                    collects, uses, discloses and protects your personal information. You can contact us via email emailbivas@gmail.com.
 
-# Header 1
-## Header 2
-### Header 3
+### What Information We Collect and How We Use It
+We collect solely information that is necessary to provide you with our services and to improve our product.
 
-- Bulleted
-- List
+### Diagnostic Data (Optional).
+To help identify and solve specific problems with our products and services, we occasionally solicit diagnostic reports and other troubleshooting, bug, and crash reports from customers. 
 
-1. Numbered
-2. List
+### Where We Store Your Data.
 
-**Bold** and _Italic_ and `Code` text
+Your writings within the app are not saved on our servers nor do we have access to this data. 
+                    This data is saved as human-readable text files locally on your Mac or iOS device and synchronized with your personal iCloud Drive 
+                    storage (Apple service). iCloud Drive creates backups of your data and syncs it between your devices automatically.  
+                    iCloud storage belong to Apple, so if you want to know more about their privacy policy, you can read it in the link 
+                    [https://www.apple.com/privacy/](https://www.apple.com/privacy/)
 
-[Link](url) and ![Image](src)
-```
+### Diagnostic Data.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Crash reports of the application are collected and sent to App Center by users who explicitly opt into our beta software programs or who explicitly choose to provide diagnostic data to us.
 
-### Jekyll Themes
+## Your Privacy Rights
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bivasb/line-please-for-writers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### ACCESSING AND CONTROLLING YOUR PERSONAL DATA
+Regarding your personal data, you have following options:
+- Delete data: You can request deletion of your personal data that we have about you. We will delete the data that we are not legally obliged to keep.
 
-### Support or Contact
+- Change or correct data: You have the right to request change of incorrect personal data that we have about you.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Object to or limit or restrict use of data: You can request that we stop using all or some of your personal data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your personal data is inaccurate or unlawfully held).
+
+- Right to access and/or take your personal data:You have the right to ask us for a copy of your personal data and can ask for a copy of personal data you provided in machine readable form.
+
+You can make a request for any of the above mentioned actions by sending an email to emailbivas@gmail.com
+
+### Changes to This Privacy Policy
+
+We may update our Privacy Policy from
+                  time to time. You are advised to review this page
+                  periodically for any changes. We will
+                  notify you of any changes by posting the new Privacy Policy on
+                  this page.
+
+This policy is effective as of 2021-02-28
+
+### Contact Us
+If you have any questions or suggestions about our
+                  Privacy Policy, do not hesitate to contact us at emailbivas@gmail.com
